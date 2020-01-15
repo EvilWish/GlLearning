@@ -13,6 +13,9 @@ public class Launcher {
 
 	public static void main(String[] args) {
 		//TEST RUN
+		
+		//New Changes
+		
 		if (!glfwInit()) {
 			throw new IllegalStateException("Failed to initialize GLFW!");
 		}
