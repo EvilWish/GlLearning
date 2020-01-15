@@ -12,7 +12,7 @@ import tl.de.evilwish.som.shaders.Shader;
 public class Launcher {
 
 	public static void main(String[] args) {
-
+		//TEST RUN
 		if (!glfwInit()) {
 			throw new IllegalStateException("Failed to initialize GLFW!");
 		}
